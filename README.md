@@ -2,8 +2,8 @@
 - 👀 I’m interested in Operations Research and its applications to the real world
 - 🌱 I’m currently learning Julia language but i'm always eager to learn new things!
 - 💞️ I’m looking to collaborate on interesting and stimulating projects and to broaden my network
-- 📫 How to reach me: feel free to contact me here or on my linkedin profile at www.linkedin.com/in/
-matteo-garrò-b575b22a9. It's still a work in progress though!
+- 📫 How to reach me: feel free to contact me here or on my linkedin profile at <a href="www.linkedin.com/in/matteo-garrò-b575b22a9" target="_blank">here</a>
+- It's still a work in progress though!
 
 
 
